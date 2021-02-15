@@ -16,7 +16,8 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~8",
-        "gufy/cpanel-php": "~1.0"
+        "gufy/cpanel-php": "~1.0",
+        "guzzlehttp/guzzle" : "*"
     },
     "autoload": {
         "classmap": [
@@ -26,5 +27,5 @@
             "Gufy\\CpanelWhm\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
