@@ -1,5 +1,5 @@
 {
-    "name": "gufy/cpanel-whm",
+    "name": "shafi005/cpanel-whm",
     "description": "Laravel cPanel/WHM API Package.",
     "keywords": ["framework", "laravel","cPanel","WHM","cPanel API"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Mochamad Gufron",
             "email": "mgufronefendi@gmail.com"
+        },
+        {
+            "name": "Shafi Muhammad",
+            "email": "i.shafi.muhammad@gmail.com"
         }
     ],
     "require": {
